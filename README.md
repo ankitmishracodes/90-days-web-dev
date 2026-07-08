@@ -1,7 +1,7 @@
 # 90 Days Web Development
 
 ## Day 10
-- ✅ Learned Inline CSS
+🔴 Learned Inline CSS
 - Changed text color
 - Changed background color
 - Changed font size

@@ -1,2 +1,10 @@
-# 90-days-web-dev
-My 90-day journey to become a web developer. Daily practice, projects, and progress logs.
+# 90 Days Web Development
+
+## Day 10
+- ✅ Learned Inline CSS
+- Changed text color
+- Changed background color
+- Changed font size
+
+### Preview
+This repository contains my Day 10 CSS practice.

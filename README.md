@@ -1,7 +1,7 @@
 # 90 Days Web Dev 🚀
 
 Documenting my journey from zero to freelance web developer.  
-**Goal: 1 commit every day for 90 days. Target: Earn ₹10,000/month by Day 90.**
+
 
 This repo contains all my daily practice and mini-projects.
 

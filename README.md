@@ -9,7 +9,7 @@ This repo contains all my daily practice and mini-projects.
 
 | Day | Topic | What I Built | Live Demo |
 | --- | --- | --- | --- |
-| Day 1 | Inline CSS Basics | Styled a simple page with inline CSS | [View](https://ankitmishracodes.github.io/90-days-web-dev/day1-css-basics/) |
+| Day 1 | Inline CSS Basics | Styled a simple page with inline CSS | [View](https://ankitmishracodes.github.io/90-days-web-dev/) |
 | Day 2 |  |  |  |
 | Day 3 |  |  |  |
 
